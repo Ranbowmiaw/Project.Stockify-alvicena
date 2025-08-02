@@ -374,7 +374,3 @@ Route::get('playground/sidebar', function () {
 Route::get('test', function () {
     return view('test');
 });
-
-Route::get('eben_gay', function () {
-    return view('eben_gay');
-});
